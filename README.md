@@ -9,7 +9,7 @@
 💭 Currently learning C and working on FDF : a project consisting of creating a wireframe rendering of a landscape
 
 
-📫 Reach me: via [e-mail](madavid@student.42.fr "email") or [Linkedin](https://www.linkedin.com/in/marine-david-27826912b/ "Linkedin")
+📫 Reach me: via [e-mail](mailto:madavid@student.42.fr "email") or [Linkedin](https://www.linkedin.com/in/marine-david-27826912b/ "Linkedin")
 
 
 😄 Pronouns: she/her
