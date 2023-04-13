@@ -19,7 +19,11 @@
 
 ### ***Projects I have been working on at 42 :***
 
-*01/23* (C)         FDF / a project consisting of creating a wireframe rendering of a landscape -  **graphics library**
+*04/23* (C)         Pipex / Discover in detail a UNIX mechanism -  **UNIX**
+
+*03/23* (C)         Push swap / Creating an optimized sorting algorithm -  **sorting algorithm**
+
+*02/23* (C)         FDF / Creating a wireframe rendering of a landscape -  **graphics library**
 
 *01/23* (C)         Get_next_line / Write a function that returns a line read from a file descriptor - **static variables**
 
