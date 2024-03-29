@@ -19,7 +19,19 @@
 
 ### ***Projects I have been working on at 42 :***
 
-*04/23* (C)         Pipex / Discover in detail a UNIX mechanism -  **UNIX**
+*03/24* (C++)       IRC / Creating an Internet Relay Chat Server based on IRSSI -  **Text-based communication protocol**
+
+*02/24* (C)         Cub3d / Creating a "realistic" 3D graphical representation using a first-person view using ray-casting principles -  **Graphics library / raycasting**
+
+*01/24* (C++)       CPP Piscine / Learning basics of C++ -  **Oriented Object Programming**
+
+*12/23* (IPV4)      NetPractice / Understanding how addressing works with the TCP/IP protocol to configure small networks -  **Network management and system administration**
+
+*10/23* (C)         Philosophers /  Learn the basics of threading a process -  **concurrent algorithm design/synchronisation**
+
+*08/23* (C)         Minishell / Creating my own shell -  **Processes, file descriptors, Shell**
+
+*05/23* (C)         Pipex / Discover in detail a UNIX mechanism -  **UNIX**
 
 *03/23* (C)         Push swap / Creating an optimized sorting algorithm -  **sorting algorithm**
 
